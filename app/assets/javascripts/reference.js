@@ -333,7 +333,7 @@
 // }
 // cool();
 // console.log(typeof cool);
-//
+
 // Functions can also, therefore, be one of the properties of an object
 // var car = {
 //   model: "Buick",
